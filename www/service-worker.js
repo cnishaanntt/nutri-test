@@ -2,7 +2,7 @@ var dataCacheName = 'nutriDataCache';
 var cacheName = 'nutriCache';
 var filesToCache = [
     '/',
-    '/favicon.ico'
+    '/favicon.ico',
     '/css/main.css',
     '/js/client.js',
     '/pug/index.pug',
