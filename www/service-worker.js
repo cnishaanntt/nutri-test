@@ -7,7 +7,7 @@ var filesToCache = [
     '/js/client.js',
     '/pug/index.pug',
     '/pug/nutrient.pug',
-    '/pug/recommender.pug'  
+    '/pug/recommender.pug', 
     '/img/background.png',
     '/img/iconimg.png'
 ];
